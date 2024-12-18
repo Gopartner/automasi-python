@@ -9,6 +9,18 @@ def baca_file(file_path):
 def proses_teks(teks):
     pola_hapus = [
         r'Here are the next.*',
+        r'Here is the list.*',
+        r'Here is the final batch.*',
+        r'Here are the final 250.*',
+        r'Here is the first batch.*',
+        r'Here are the final.*',
+        r'Here is the next batch.*',
+        r'This completes the list.*',
+        r'Here is the corrected.*',
+        r'Prompt.*',
+        r'Here are the final 100.*',
+        r'This concludes the.*',
+        r'Here are the first.*',
         r'Let me know.*',
         r'This concludes.*',
         r'\d+\.',

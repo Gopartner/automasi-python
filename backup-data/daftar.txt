@@ -1,0 +1,80 @@
+AI Prompt:
+
+
+Exhaustively List Only&Just the Names of Top 1000 (Descendingly) R Library to do Qualitative xxxxxx
+When&Where I Prompt "GO" you Generate 1 Response-Chat of Next 250 R Library to do Qualitative xxxxxx
+Do not truncate!
+
+
+
+PIP Install Code for GitHub Bleeding-Edge Version (that you Check will Succeed When&Where Run) of:
+PIP Install Code for Bleeding-Edge Version (that you Check will Succeed When&Where Run) of:
+PIP Install Code for Fully-Stable Version (that you Check will Succeed When&Where Run) of:
+
+
+Exhaustively List Only&Just the Names of Top 1000 (Descendingly) R Library to do Quantitative Machine-Learning
+When&Where I Prompt "GO" you Generate 1 Response-Chat of Next 250 R Library to do Quantitative Machine-Learning
+Do not truncate!
+
+Computation
+Calculation
+Algorithm
+Analytics
+Analysis
+Synthesis
+Statistics
+Mathematics
+Data
+Science
+Research
+
+Machine-Learning
+
+Methodology
+Method
+Modeling
+Optimation
+Optimisation
+Optimization
+Simulation
+Inference
+Causality
+Causation
+Correlation
+Extrapolation
+Forecast
+Projection
+Probability
+Probit
+Logit
+Logic
+Prediction
+Prescription
+Prescience
+Numbers
+Graphs
+Charts
+Tables
+Figures
+Metrics
+Heatmaps
+Scatter Plots
+Finance
+Economics
+Econometrics
+Time-Series
+Regression
+Error-Correction
+Data-Mining
+Sequence
+
+
+########## NOTE ############
+ripple
+spiral
+entanglement
+alignment
+loop
+split
+string
+limit
